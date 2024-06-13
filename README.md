@@ -6,6 +6,6 @@ I am not sure if GitHub allows uploading large data files, so I have provided a 
 
 https://drive.google.com/file/d/1A8_loiu1_lKgjYBxFXW9Rk85IhwNzESF/view?usp=drive_link
 
-I sincerely invite users to fully cite this work. This work is currently undergoing peer review, and as of now (May 29, 2024), I am unable to provide a complete citation. However, I will update with the complete information as soon as it becomes available.
+I sincerely invite users to fully cite this workMeng Zhang, MKurt-LIA: Mechanical Fault Vibration Signal Measurement Scheme with Frequency Tracking Capability for Bearing Condition Monitoring, Measurement Science and Technology, 2024. (https://doi.org/10.1088/1361-6501/ad574a).
 
 My code is free to use, so please do not sell it—unless you buy me a cup of coffee in person.
